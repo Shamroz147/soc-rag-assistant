@@ -216,3 +216,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Virtuelt miljø
+.venv/
+venv/
+
+# Python-cache
+__pycache__/
+*.pyc
+
+# Data og indeks (store filer som kan genereres på nytt)
+data/
+vectorstore/
+
+# Hemmeligheter og lokale innstillinger
+.env
+
+# Editor/OS-filer
+.vscode/
+.idea/
+.DS_Store

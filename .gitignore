@@ -217,6 +217,7 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+
 # Virtuelt miljø
 .venv/
 venv/
@@ -236,3 +237,11 @@ vectorstore/
 .vscode/
 .idea/
 .DS_Store
+
+
+# Project specific
+vectorstore/
+*.faiss
+*.pkl
+.env
+

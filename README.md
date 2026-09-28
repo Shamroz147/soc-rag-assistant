@@ -37,4 +37,3 @@ soc-rag-assistant/
 
 ## Setup
 
-(Coming soon - we'll fill this in as we build)

@@ -27,7 +27,6 @@ soc-rag-assistant/
 ├── README.md
 ├── src/
 │   ├── data_loader.py      # Load & chunk MITRE ATT&CK data
-│   ├── vector_store.py      # Embeddings + FAISS index
 │   ├── rag_chain.py         # RAG chain + SOC prompt
 │   └── app.py               # Streamlit UI
 ├── data/

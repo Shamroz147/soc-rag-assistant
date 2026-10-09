@@ -117,7 +117,7 @@ The app opens in your browser at `http://localhost:8501`.
 
 ### Malicious log: encoded PowerShell launched from Word
 
-<img width="1787" height="912" alt="Skjermbilde 2026-10-09 150415" src="https://github.com/user-attachments/assets/ce75f676-7584-440c-9bac-eb492218ad4b" />
-<img width="1772" height="912" alt="Skjermbilde 2026-10-09 150443" src="https://github.com/user-attachments/assets/ca99f581-f2e7-4b83-8da0-3a1487b692d5" />
+<img width="900" height="500" alt="Skjermbilde 2026-10-09 150415" src="https://github.com/user-attachments/assets/ce75f676-7584-440c-9bac-eb492218ad4b" />
+<img width="900" height="500" alt="Skjermbilde 2026-10-09 150443" src="https://github.com/user-attachments/assets/ca99f581-f2e7-4b83-8da0-3a1487b692d5" />
 
 

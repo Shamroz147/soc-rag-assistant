@@ -245,3 +245,8 @@ vectorstore/
 *.pkl
 .env
 
+.env
+faiss_index/
+data/mitre-attack/
+__pycache__/
+.ipynb_checkpoints/

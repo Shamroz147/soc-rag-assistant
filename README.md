@@ -45,7 +45,7 @@ soc-rag-assistant/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/soc-rag-assistant.git
+git clone https://github.com/Shamroz147/soc-rag-assistant.git
 cd soc-rag-assistant
 ```
 
